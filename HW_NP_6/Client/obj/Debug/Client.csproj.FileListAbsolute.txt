@@ -1,0 +1,6 @@
+D:\Академия ШАГ\NetworkProgramming\HW_NP_6\Client\bin\Debug\Client.exe.config
+D:\Академия ШАГ\NetworkProgramming\HW_NP_6\Client\bin\Debug\Client.exe
+D:\Академия ШАГ\NetworkProgramming\HW_NP_6\Client\bin\Debug\Client.pdb
+D:\Академия ШАГ\NetworkProgramming\HW_NP_6\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Академия ШАГ\NetworkProgramming\HW_NP_6\Client\obj\Debug\Client.exe
+D:\Академия ШАГ\NetworkProgramming\HW_NP_6\Client\obj\Debug\Client.pdb

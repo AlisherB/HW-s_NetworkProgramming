@@ -1,0 +1,7 @@
+D:\Академия ШАГ\NetworkProgramming\HW_NP_5\Http\bin\Debug\Http.exe.config
+D:\Академия ШАГ\NetworkProgramming\HW_NP_5\Http\bin\Debug\Http.exe
+D:\Академия ШАГ\NetworkProgramming\HW_NP_5\Http\bin\Debug\Http.pdb
+D:\Академия ШАГ\NetworkProgramming\HW_NP_5\Http\obj\Debug\Http.csprojResolveAssemblyReference.cache
+D:\Академия ШАГ\NetworkProgramming\HW_NP_5\Http\obj\Debug\Http.csproj.CoreCompileInputs.cache
+D:\Академия ШАГ\NetworkProgramming\HW_NP_5\Http\obj\Debug\Http.exe
+D:\Академия ШАГ\NetworkProgramming\HW_NP_5\Http\obj\Debug\Http.pdb
